@@ -1,65 +1,72 @@
-# 👋 Hi there, I'm Mohamed Bassem Ammar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Ammar-blue?logo=linkedin)](https://www.linkedin.com/in/mohamed-ammar-125386220) [![GitHub followers](https://img.shields.io/github/followers/mohamedammar2729?label=Follow&style=social)](https://github.com/mohamedammar2729)  [![Email](https://img.shields.io/badge/Email-mohammedammar357%40gmail.com-c14438?logo=gmail)](mailto:mohammedammar357@gmail.com)  
-
----
-
-## 📝 About Me
-
-I am a passionate and detail-oriented Front-End Developer with a Bachelor of Electronics Engineering from Menoufia University. I specialize in building responsive, user-centric web interfaces and cross-platform mobile applications. My focus is on writing clean, maintainable code and delivering seamless user experiences. I thrive in collaborative environments and am committed to continuous learning and innovation.
+# 👨💻 Mohamed Bassem Ammar 
+*Front-End Alchemist | UI/UX Craftsman | React Native Explorer*  
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-ammar-125386220)
+[![Portfolio](https://img.shields.io/badge/🚀-Portfolio%20Showcase-FF6F61?style=flat)](https://mohamedammar2729.github.io/)
+[![Email](https://img.shields.io/badge/-mohammedammar357%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:mohammedammar357@gmail.com)
 
 ---
 
-## 💼 Experience
-
-**Front End & Cross-Platform Developer Intern**  
-Information Technology Institute (ITI) • Nov 2024 – Apr 2025  
-- Built and maintained **Fus7a**, a travel planning platform using **Next.js**, **React Native**, **Node.js**, **MongoDB**, and **JWT**.  
-- Integrated real-time synchronization and personalized trip recommendations.  
-
-**Embedded Systems Intern**  
-Information Technology Institute (ITI) • Nov 2023 – Mar 2023  
-- Developed an **ADAS** prototype on **STM32** and **Raspberry Pi 3**.  
-- Implemented FOTA updates, adaptive cruise control, emergency braking, and lane keeping.
+### ⚡ **Code. Create. Elevate.**  
+I turn coffee into pixel-perfect UIs and scalable web experiences. Electronics engineer turned front-end wizard with a passion for bridging hardware logic and digital creativity.
 
 ---
 
-## 🔧 Skills & Technologies
+## 🛠️ **Tech Arsenal**
 
-- **Languages**: JavaScript, TypeScript, Dart, HTML5, CSS3  
-- **Frameworks/Libraries**: React.js, Next.js, React Native, Tailwind CSS  
-- **Back End/Databases**: Node.js, MongoDB, PostgreSQL, Prisma ORM  
-- **Tools**: Git, GitHub, VSCode, Postman, Figma  
-
----
-
-## 🚀 Projects
-
-### [Food Ordering App](https://github.com/mohamedammar2729/food-app)
-Full-stack food ordering platform with **Next.js**, **PostgreSQL**, **Prisma**, **RTK**, **Stripe**, **NextAuth**, and **Tailwind CSS**.
-
-### [Fus7a: Travel Planning](https://mohamedammar2729.github.io/Fusha-Platform/)
-A comprehensive web & mobile travel planner built with **Next.js**, **React Native**, **Expo**, and **Node.js**.
-
-### [Market E-Commerce UI](https://mohamedammar2729.github.io/Market/)
-Responsive marketplace UI with user authentication, product categories, and interactive listings.
+| **Frontend**       | **Mobile**         | **Backend**       | **Tools**          |
+|---------------------|---------------------|-------------------|--------------------|
+| React.js ⚛️         | React Native 📱     | Node.js 🟢        | Git/GitHub 🐙      |
+| Next.js 🌐          | Expo 🚀            | RESTful APIs 🌐   | Prisma ORM 🗄️      |
+| TypeScript 🔵       | Dart 🎯            | PostgreSQL 🐘     | Figma 🎨          |
+| Tailwind CSS 🍃     |                    | MongoDB 🍃        | Postman 📤         |
 
 ---
 
-## 🏆 Certifications
+## 🏗️ **Featured Projects**
 
-- **C++20 Masterclass** – Udemy (120h)  
-- **Node.js Fundamentals** – Mahara Tech (9h)  
-- **Figma Essentials** – Udemy (4h)  
-- **Problem Solving** – HackerRank
+### 🌍 [Fus7a Travel Planner](https://mohamedammar2729.github.io/Fusha-Platform/)  
+*Next.js | React Native | Node.js | MongoDB*  
+Revolutionizing travel planning with real-time sync, AI-powered recommendations, and cross-platform accessibility.
 
----
-
-## 📬 Contact Me
-
-- **Email**: [mohammedammar357@gmail.com](mailto:mohammedammar357@gmail.com)  
-- **LinkedIn**: [Mohamed Ammar](https://www.linkedin.com/in/mohamed-ammar-125386220)  
+[![Demo](https://img.shields.io/badge/📱-Live_Mobile_Demo-4285F4?style=flat)](your-mobile-demo-link)
+[![Web](https://img.shields.io/badge/🌐-Web_Version-34A853?style=flat)](your-web-demo-link)
 
 ---
 
-> "Clean code and seamless UX are the heart of every great web experience."
+### 🍔 [Food Ordering App](https://github.com/mohamedammar2729/food-app)  
+*Next.js | Stripe | RTK | PostgreSQL*  
+Full-stack food marketplace with payment integration, cart workflows, and NextAuth security.
+
+[![GitHub Stars](https://img.shields.io/github/stars/mohamedammar2729/food-app?label=⭐&color=yellow)](https://github.com/mohamedammar2729/food-app)
+
+---
+
+### 🛒 [E-Commerce UI](https://mohamedammar2729.github.io/Market/)  
+*HTML5 | CSS3 | JavaScript*  
+Responsive marketplace UI with dynamic filtering, form validation, and micro-interactions.
+
+[![View Demo](https://img.shields.io/badge/👀-Live_Demo-FF6F61?style=flat)](https://mohamedammar2729.github.io/Market/)
+
+---
+
+## 🎓 **Journey Highlights**
+- 🎓 **B.Eng in Electronics Engineering** @ Menoufia University (2023)  
+- 🏆 **ITI Code Camp Graduate** – Built ADAS prototype with STM32 & Raspberry Pi  
+- 📜 **Certified Problem Solver** – HackerRank | C++20 | Node.js Fundamentals  
+
+---
+
+## 📈 **GitHub Stats**
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohamedammar2729&theme=github-dark&border_radius=8)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedammar2729&layout=compact&theme=vision-friendly-dark)](https://github.com/mohamedammar2729)
+
+---
+
+## 📬 **Let's Build Something Amazing**  
+[![Twitter](https://img.shields.io/badge/-Follow%20on%20X-000000?style=flat&logo=x)](your-twitter-link)
+[![Freelance](https://img.shields.io/badge/💼-Hire%20Me%20on%20Khamsat-0077B5?style=flat)](https://khamsat.com/user/mohamedammar357)
+
+---
+
+> "Every line of code is a brushstroke on the canvas of the web."  
+> – Mohamed Ammar
