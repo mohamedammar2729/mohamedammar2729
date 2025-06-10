@@ -1,71 +1,63 @@
-# 👋 Hi there, I'm Mohamed Bassem Ammar
+# Mohamed Bassem Ammar  
+## FULL STACK DEVELOPER  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Ammar-blue?logo=linkedin)](https://www.linkedin.com/in/mohamed-ammar-125386220) [![GitHub followers](https://img.shields.io/github/followers/mohamedammar2729?label=Follow&style=social)](https://github.com/mohamedammar2729)  [![Email](https://img.shields.io/badge/Email-mohammedammar357%40gmail.com-c14438?logo=gmail)](mailto:mohammedammar357@gmail.com)  
-
----
-
-## 📝 About Me
-
-I am a passionate and detail-oriented Front-End Developer with a Bachelor of Electronics Engineering from Menoufia University. I specialize in building responsive, user-centric web interfaces and cross-platform mobile applications. My focus is on writing clean, maintainable code and delivering seamless user experiences. I thrive in collaborative environments and am committed to continuous learning and innovation.
-
----
-
-## 💼 Experience
-
-**Front End & Cross-Platform Developer Intern**  
-Information Technology Institute (ITI) • Nov 2024 – Apr 2025  
-- Built and maintained **Fus7a**, a travel planning platform using **Next.js**, **React Native**, **Node.js**, **MongoDB**, and **JWT**.  
-- Integrated real-time synchronization and personalized trip recommendations.  
-
-**Embedded Systems Intern**  
-Information Technology Institute (ITI) • Nov 2023 – Mar 2023  
-- Developed an **ADAS** prototype on **STM32** and **Raspberry Pi 3**.  
-- Implemented FOTA updates, adaptive cruise control, emergency braking, and lane keeping.
+**Email**: mohammedammar357@gmail.com  
+**Freelance**: https://khamsat.com/user/mohamedammar357  
+**GitHub**: https://github.com/mohamedammar2729  
+**LinkedIn**: https://www.linkedin.com/in/mohamed-ammar-125386220  
+**Phone**: +20 1019005309  
 
 ---
 
-## 🔧 Skills & Technologies
-
-| **Frontend**       | **Mobile**         | **Backend**       | **Tools**          |
-|---------------------|---------------------|-------------------|--------------------|
-| React.js ⚛️         | React Native 📱     | Node.js 🟢        | Git/GitHub 🐙      |
-| Next.js 🌐          | Expo 🚀            | RESTful APIs 🌐   | Prisma ORM 🗄️      |
-| TypeScript 🔵       | Dart 🎯            | PostgreSQL 🐘     | Figma 🎨          |
-| Tailwind CSS 🍃     |                    | MongoDB 🍃        | Postman 📤         |
-
-
+### Profile  
+Full-stack developer with over 2 years of experience building responsive, high-performance web applications using React.js, Next.js, and Node.js. Delivered a travel planning platform that improved user efficiency through real-time sync and personalized recommendations.  
 
 ---
 
-## 🏗️ **Projects**
-
-### 🍔 [Food Ordering App](https://github.com/mohamedammar2729/food-app)
-Full-stack food ordering platform with **Next.js**, **PostgreSQL**, **Prisma**, **RTK**, **Stripe**, **NextAuth**, and **Tailwind CSS**.
-
-### 🌍 [Fus7a Travel Planner](https://mohamedammar2729.github.io/Fusha-Platform/)  
-A comprehensive web & mobile travel planner built with **Next.js**, **React Native**, **Expo**, and **Node.js**.
-
-### 🛒 [E-Commerce UI](https://mohamedammar2729.github.io/Market/)  
-Responsive marketplace UI with user authentication, product categories, and interactive listings.
+### Education  
+**Bachelor of Electronics Engineering**, Menoufia University, Egypt  
 
 ---
 
-## 🏆 Certifications
+### Professional Experience  
 
-- **C++20 Masterclass** – Udemy (120h)  
-- **Node.js Fundamentals** – Mahara Tech (9h)  
-- **Figma Essentials** – Udemy (4h)  
-- **Problem Solving** – HackerRank
+**Full Stack Developer, VConnect - Cairo, Egypt (2+ years)**  
+- Developed a dynamic web application that increased user engagement by 20% using React.js, Next.js, and MongoDB.  
+- Integrated and maintained RESTful APIs, which improved system scalability and reduced data retrieval time by 15%.  
+- Partnered with UI/UX teams to redesign interfaces, reducing bounce rates by 10% and boosting user satisfaction.  
 
----
-
-## 📬 Contact Me
-
-- **Email**: [mohammedammar357@gmail.com](mailto:mohammedammar357@gmail.com)  
-- **LinkedIn**: [Mohamed Ammar](https://www.linkedin.com/in/mohamed-ammar-125386220)
-- **Freelance**: [![Freelance](https://img.shields.io/badge/💼-Hire%20Me%20on%20Khamsat-0077B5?style=flat)](https://khamsat.com/user/mohamedammar357)
-
+**Front-End Developer Intern, ITI - Cairo, Egypt (Feb 2020 - Jun 2021)**  
+- Developed 'Fus7a,' a travel planning platform using Next.js, React Native, Node.js, and MongoDB. Implemented real-time sync and trip recommendations, improving user efficiency by 25% (5-month internship).  
 
 ---
 
-> "Clean code and seamless UX are the heart of every great web experience."
+### Technical Skills  
+- **Front-End**: HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS  
+- **Back-End**: Node.js, MongoDB, PostgreSQL, Prisma ORM  
+- **Tools**: Git/GitHub, RTL, JWT  
+- **Mobile**: React Native, Dart  
+
+---
+
+### Projects  
+- **Food Ordering App** | [Live Demo](https://your-link.com)  
+  - Technologies: Next.js, PostgreSQL, Prisma, RTK, Stripe, Tailwind CSS, Next AUTH  
+  - Built a full-stack food ordering app with Stripe payment integration and user authentication.  
+- **Fus7a: Travel Planning Platform** | [GitHub](https://github.com/your-repo) | [Live Demo](https://your-link.com)  
+  - Technologies: Next.js, React Native, Node.js, MongoDB, RESTful API, JWT  
+  - Developed a web and mobile travel planning platform with real-time sync and personalized trip recommendations.  
+- **E-Commerce Marketplace** | [Live Demo](https://your-link.com)  
+  - Technologies: HTML, CSS, JavaScript  
+  - Designed a responsive e-commerce UI with product categorization, user authentication, and cart functionality.  
+
+---
+
+### Certifications and Training  
+- Node.js Fundamentals, Mahara Tech (9 hours)  
+- Problem Solving Certificate (Basics), HackerRank  
+
+---
+
+### Language Skills  
+- Arabic: Native  
+- English: Fluent (B2 level)
