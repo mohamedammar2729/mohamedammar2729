@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-**Full-Stack Developer** with over **2 years of experience** building responsive, high-performance web applications using **React.js**, **Next.js**, and **Node.js**. Proven ability to create responsive web interfaces and transform designs into optimized applications. Electronics Engineering graduate from Menoufia University bringing technical rigor to software development.
+**Full-Stack Engineer** with over **2 years of experience** building responsive, high-performance web applications using **React.js**, **Next.js**, and **Node.js**. Proven ability to create responsive web interfaces and transform designs into optimized applications. Electronics Engineering graduate from Menoufia University bringing technical rigor to software development.
 
 🎯 **Current Focus:** Building SaaS platforms with advanced features and real-time capabilities  
 🚀 **Passion:** Creating innovative solutions that bridge complex functionality with intuitive UX  
