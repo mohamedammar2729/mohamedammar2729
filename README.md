@@ -1,8 +1,29 @@
-# � Mohamed Bassem Ammar
+# 👨‍💻 Mohamed Bass---
+
+## 👋 About Me
+
+Full-stack developer with oveears**of experience c🚀 Front End & Cross-Platform I## 🌟 Featured Projectstern — *ITI Code Camp*  
+**Nov 2024 – Ma---
+
+## 🏅 Certifications
+
+- **C++20 Masterclass**, Udemy5**  
+- Led development of **Fus7a travel app** using Next.js, Node.js, and React Native  
+- Built RESTful APIs with JWT authentication  
+- Integrated real-time sync and pre-planned trip logicsponsive, scalable, and high-performance** web and mobile applications using **React**, **Next.js**, and **Node.js**. Adept at transforming UI/UX designs into elegant, optimized frontends and integrating robust backends. Passionate about clean architecture, DX, and shipping business-focused solutions.
+
+### 🔍 Current Focus
+- Building **SaaS platforms** with advanced auth and streaming
+- Contributing to open-source tools in the React ecosystem
+- Exploring DevOps and scalable architectures
+
+---
+
+## 🛠️ Tech Stackohamed Bassem Ammar
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Full-Stack+Developer+%7C+Software+Engineer;Building+Modern+Web+%26+Mobile+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Full-Stack+Developer+%7C+React+%2B+Next.js+Specialist;Delivering+High-Performance+Web+%26+Mobile+Apps)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +31,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ammar-125386220)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedammar357@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/mohamedammar2729)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedammar2729)
 [![Freelance](https://img.shields.io/badge/Hire_Me-00C896?style=for-the-badge&logo=fiverr&logoColor=white)](https://khamsat.com/user/mohamedammar357)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedammar2729&label=Profile%20views&color=0e75b6&style=flat)
@@ -56,6 +77,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle%20ORM-000000?style=for-the-badge&logo=Drizzle&logoColor=green)
 
 ### 🔧 Tools & Platforms
 
@@ -67,14 +89,16 @@
 
 ### � State Management & More
 
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
-![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+**Frontend**: `Next.js`, `React.js`, `TypeScript`, `Tailwind CSS`, `RTK`, `Radix UI`  
+**Backend**: `Node.js`, `Express.js`, `MongoDB`, `PostgreSQL`, `Prisma`, `Drizzle ORM`, `tRPC`  
+**Mobile**: `React Native`, `Expo`, `Dart`  
+**Dev Tools**: `Git`, `GitHub`, `VS Code`, `Postman`, `Figma`, `ClickUp`  
+**Auth & APIs**: `NextAuth.js`, `JWT`, `Stripe`, `Stream`, `OpenAI`, `BetterAuth2`, `Inngest`, `Nuqs`  
+**Infra**: `Neon`, `Vercel`, `PWA`, `Cloudinary`, `TanStack Query`
 
-</div>
+---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 <div align="left">
 
@@ -91,18 +115,17 @@ _Nov 2024 – Apr 2025_
 - Created responsive UI components with **Material-UI** and **Styled Components**
 - Integrated real-time features and **PWA** capabilities for offline functionality
 
-### ⚡ **Embedded Systems Engineer Intern** | _Information Technology Institute (ITI)_
+### 🧠 Frontend Developer — *Bayanatz (Remote)*  
+**Aug 2024 – Nov 2024**  
+- Developed performant UIs aligned with product vision  
+- Built scalable front-end architecture using modern JS and TS  
+- Enhanced responsiveness and load times with optimization techniques  
 
-_Nov 2023 – Mar 2024_
-
-**🚗 Advanced Driver Assistance System (ADAS)** - _Hardware/Software Integration_
-
-- Developed ADAS prototype using **STM32** microcontrollers and **Raspberry Pi 3**
-- Implemented **FOTA (Firmware Over-The-Air)** update system
-- Built safety features: adaptive cruise control, emergency braking, and lane keeping assistance
-- Programmed real-time sensor data processing and automotive communication protocols
-
-</div>
+### 🧑‍💻 Freelance Frontend Developer  
+**Nov 2022 – Sep 2023**  
+- Delivered client websites with clean, mobile-first design  
+- Used HTML, CSS, JS, Bootstrap to build responsive experiences  
+- Managed full project lifecycle: requirements to delivery
 
 ---
 
@@ -110,63 +133,42 @@ _Nov 2023 – Mar 2024_
 
 <div align="left">
 
-### 🍕 **[Food Ordering Platform](https://github.com/mohamedammar2729/food-app)** ⭐ _Production Ready_
+### 🤖 [Meet AI – SaaS Agent Video Platform](https://github.com/mohamedammar2729/meet-ai)
+> Modern SaaS with intelligent agents & streaming  
+**Stack:** Next.js, TRPC, PostgreSQL, Drizzle ORM, Tailwind, BetterAuth2, OpenAI, Stream, Polar  
+- AI-powered video meetings, chat, and auto-summaries  
+- Integrated role-based auth and real-time features  
 
-[![Next.js](https://img.shields.io/badge/Next.js-15.3.1-black?style=flat&logo=next.js)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/) [![Prisma](https://img.shields.io/badge/Prisma-6.7.0-2D3748?style=flat&logo=prisma)](https://www.prisma.io/)
+---
 
-**Full-stack e-commerce solution** with advanced features for modern food ordering
+### 🍕 [Food Ordering App](https://github.com/mohamedammar2729/food-app)
+> Full-stack ordering system with auth & Stripe  
+**Stack:** Next.js, Prisma, PostgreSQL, Stripe, RTK, Tailwind  
+- Role-based auth, shopping cart, responsive UI  
+- Admin panel and multilingual support (LTR/RTL)
 
-- 🔐 **NextAuth.js** authentication with role-based access (Admin/User)
-- 💳 **Stripe** payment integration with secure checkout
-- 🗄️ **PostgreSQL** + **Prisma ORM** for type-safe database operations
-- 🌍 **i18n** support (English/Arabic) with RTL/LTR layouts
-- 🛒 **Redux Toolkit** for state management and shopping cart
-- 📱 **Responsive design** with **TailwindCSS** and **Radix UI**
-- 🖼️ **Cloudinary** integration for optimized image delivery
-- 🔄 **Real-time** order tracking and inventory management
+---
 
-```
-🚀 Live Demo: [View Project](https://github.com/mohamedammar2729/food-app)
-```
+### 🌍 [Fus7a Travel Platform](https://github.com/mohamedammar2729/FushaPlatform-Mobile)  
+> Trip planner (Web + Mobile) with personalization  
+**Stack:** Next.js, React Native, Node.js, MongoDB  
+- Real-time cross-platform sync  
+- JWT auth + AI-powered trip suggestions
 
-### 🌍 **[Fus7a Travel Platform](https://mohamedammar2729.github.io/Fusha-Platform/)** 🎖️ _Featured Project_
+---
 
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react)](https://reactnative.dev/) [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)](https://nodejs.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)](https://www.mongodb.com/)
+### 🛒 [E-Commerce Marketplace](https://github.com/mohamedammar2729/Market)  
+> Responsive storefront with core features  
+**Stack:** HTML, CSS, JavaScript  
+- Product filtering, shopping cart, localStorage  
+- Cross-browser and mobile optimization
 
-**Comprehensive travel planning ecosystem** for personalized trip experiences
+---
 
-- 🎨 **Cross-platform** web app (Next.js) + mobile app (React Native + Expo)
-- 🤖 **AI-powered** trip recommendations and itinerary generation
-- 👥 **Multi-user** collaboration for group trip planning
-- 🗺️ **Interactive maps** and location-based services
-- 📊 **Admin dashboard** for place management and analytics
-- 🔄 **Real-time sync** between web and mobile platforms
-- 💾 **Offline support** with data caching strategies
-
-```
-🌐 Live Demo: https://mohamedammar2729.github.io/Fusha-Platform/
-📱 Mobile: React Native + Expo implementation
-```
-
-### 🛒 **[E-Commerce Marketplace](https://mohamedammar2729.github.io/Market/)** 💎 _Frontend Showcase_
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
-**Modern vanilla JavaScript e-commerce solution** demonstrating core web fundamentals
-
-- 🎪 **Interactive carousel** with smooth animations
-- 🔍 **Dynamic filtering** by categories (Clothes, Books, Electronics)
-- 🛍️ **Shopping cart** with localStorage persistence
-- 📱 **Responsive design** with CSS Grid/Flexbox
-- ✅ **Form validation** with real-time feedback
-- 🎨 **CSS animations** and micro-interactions
-- 🚀 **Performance optimized** with lazy loading
-
-```
-🔗 Live Demo: https://mohamedammar2729.github.io/Market/
-```
-
-</div>
+### 🍽️ [Restaurant Menu](https://github.com/mohamedammar2729/restaurant)  
+> Interactive menu landing page  
+**Stack:** HTML, CSS, JavaScript  
+- Categorized layout and responsive design
 
 ---
 
@@ -193,76 +195,26 @@ _Nov 2023 – Mar 2024_
 
 ---
 
-## 🏆 Achievements & Certifications
+## � Certifications
 
-<div align="left">
-
-🎓 **Technical Certifications**
-
-- **C++20 Masterclass** – Udemy (120+ hours)
-- **Node.js Fundamentals** – Mahara Tech (9 hours)
-- **Figma Essentials** – Udemy (4 hours)
-- **Problem Solving** – HackerRank Certified
-
-🚀 **Professional Achievements**
-
-- **ITI Fellow** - Selected for competitive Full-Stack Development program
-- **ADAS Project Lead** - Successfully delivered automotive prototype
-- **Freelance Developer** - 4.9⭐ rating on Khamsat platform
-- **Open Source Contributor** - Active in React and Next.js communities
-
-🎯 **Current Goals 2025**
-
-- AWS Cloud Practitioner Certification
-- Contributing to major open-source projects
-- Building SaaS products with Next.js 15
-- Mastering system design and microservices
-
-</div>
+- **C++20 Masterclass**, Udemy  
+- **Node.js Fundamentals**, Mahara Tech  
+- **Python for Beginners**, Udemy  
+- **Figma Essentials**, Udemy  
+- **Webpack Training**, Alison  
+- **Problem Solving (Basics)**, HackerRank
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🌐 Contact
 
-<div align="center">
-
-### 💬 **Available for:**
-
-🚀 **Full-time Software Developer roles**  
-💼 **Freelance web/mobile development projects**  
-🤝 **Open source collaborations**  
-📚 **Mentoring junior developers**
+� Email: [mohammedammar357@gmail.com](mailto:mohammedammar357@gmail.com)  
+📞 Phone: +20 1019005309  
+🌍 Location: Egypt  
+🕒 Timezone: GMT+2  
+�️ Preferred Stack: Next.js + PostgreSQL + TypeScript  
+🗣️ Languages: Arabic (Native), English (Proficient)
 
 ---
 
-### 📫 **Get in Touch**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ammar-125386220)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedammar357@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedammar2729)
-[![Freelance](https://img.shields.io/badge/Hire_Me-00C896?style=for-the-badge&logo=fiverr&logoColor=white)](https://khamsat.com/user/mohamedammar357)
-
-</div>
-
-### 💡 **Quick Stats**
-
-- 🌍 **Location:** Egypt
-- ⏰ **Timezone:** GMT+2 (EET)
-- 💻 **Preferred Stack:** Next.js + TypeScript + PostgreSQL
-- 🗣️ **Languages:** Arabic (Native), English (Professional)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ **"Building the future, one commit at a time"**
-
-_Thank you for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities._
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
+> ⚡ "Building the future, one commit at a time."
