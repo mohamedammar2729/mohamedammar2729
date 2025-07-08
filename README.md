@@ -22,18 +22,18 @@
 
 ## 🚀 About Me
 
-**Senior Full-Stack Engineer** with expertise in building **production-grade web applications** and **scalable mobile solutions**. Electronics Engineering graduate from Menoufia University, combining hardware knowledge with advanced software development skills to create robust, performance-optimized digital experiences.
+**Full-Stack Engineer** with expertise in building **production-grade web applications** and **scalable mobile solutions**. Electronics Engineering graduate from Menoufia University, combining hardware knowledge with advanced software development skills to create robust, performance-optimized digital experiences.
 
-```typescript
+
 const mohamed = {
-  role: 'Senior Full-Stack Developer',
-  location: 'Egypt 🇪🇬',
-  experience: '3+ years',
-  specialization: ['Next.js', 'React Native', 'Node.js', 'TypeScript'],
-  currentFocus: ['SaaS Architecture', 'AI Integration', 'DevOps'],
-  availability: 'Open to opportunities',
+   role: "Senior Full-Stack Developer",
+  location: "Egypt 🇪🇬",
+  experience: "3+ years",
+  specialization: ["Next.js", "React Native", "Node.js", "TypeScript"],
+  currentFocus: ["SaaS Architecture", "AI Integration", "DevOps"],
+  availability: "Open to opportunities"
 };
-```
+
 
 ### 🎯 Current Objectives
 
@@ -103,24 +103,24 @@ const mohamed = {
 
 ### 🏗️ Architecture & Expertise
 
-```typescript
+
 // Technical Leadership Areas
 const expertise = {
   architecture: {
-    patterns: ['Microservices', 'Serverless', 'JAMstack', 'Event-Driven'],
-    practices: ['TDD', 'CI/CD', 'Clean Architecture', 'SOLID Principles'],
+     patterns: ["Microservices", "Serverless", "JAMstack", "Event-Driven"],
+    practices: ["TDD", "CI/CD", "Clean Architecture", "SOLID Principles"]
   },
   performance: {
-    frontend: ['Code Splitting', 'Lazy Loading', 'Bundle Optimization'],
-    backend: ['Database Optimization', 'Caching', 'Load Balancing'],
-    monitoring: ['Performance Metrics', 'Error Tracking', 'Analytics'],
+    frontend: ["Code Splitting", "Lazy Loading", "Bundle Optimization"],
+    backend: ["Database Optimization", "Caching", "Load Balancing"],
+    monitoring: ["Performance Metrics", "Error Tracking", "Analytics"]
   },
   scalability: {
-    horizontal: ['Load Balancing', 'Containerization', 'Orchestration'],
-    vertical: ['Resource Optimization', 'Memory Management', 'CPU Efficiency'],
+    horizontal: ["Load Balancing", "Containerization", "Orchestration"],
+    vertical: ["Resource Optimization", "Memory Management", "CPU Efficiency"]
   },
 };
-```
+
 
 **Core Competencies:**
 
@@ -338,16 +338,16 @@ const expertise = {
 
 ### 💼 Code Quality Metrics
 
-```typescript
+
 const codeQuality = {
-  testCoverage: '90%+',
-  documentation: 'Comprehensive',
-  codeReviews: 'Thorough',
-  bestPractices: 'Always followed',
-  performance: 'Optimized',
-  security: 'Security-first approach',
+ testCoverage: "90%+",
+  documentation: "Comprehensive",
+  codeReviews: "Thorough",
+  bestPractices: "Always followed",
+  performance: "Optimized",
+  security: "Security-first approach"
 };
-```
+
 
 ---
 
@@ -413,7 +413,7 @@ _Specialized in Digital Systems & Embedded Programming_
 
 ### 🚀 Available For
 
-```typescript
+
 const opportunities = {
   employment: {
     type: 'Full-time Remote/Hybrid',
@@ -437,7 +437,7 @@ const opportunities = {
     commitment: 'Long-term',
   },
 };
-```
+
 
 ### 🎯 What I Bring to Your Team
 
