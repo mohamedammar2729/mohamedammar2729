@@ -24,7 +24,6 @@
 
 **Full-Stack Engineer** with over **2 years of experience** building responsive, high-performance web applications using **React.js**, **Next.js**, and **Node.js**. Proven ability to create responsive web interfaces and transform designs into optimized applications. Electronics Engineering graduate from Menoufia University bringing technical rigor to software development.
 
-
 🎯 **Current Focus:** Building SaaS platforms with advanced features and real-time capabilities  
 🚀 **Passion:** Creating innovative solutions that bridge complex functionality with intuitive UX  
 🌱 **Learning:** Advanced system design patterns and cloud-native architectures  
@@ -71,7 +70,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-
 </div>
 
 ---
@@ -79,21 +77,27 @@
 ## 💼 Professional Experience
 
 ### 👨‍💻 **Front End Developer** | Bayanatz (Remote)
-*Spearheaded development of high-performance user interfaces for web applications*
+
+_Spearheaded development of high-performance user interfaces for web applications_
+
 - Implemented adaptive front-end architecture using modern JavaScript frameworks
 - Enhanced application speed through component optimization and lazy loading
 - Aligned technical execution with product vision and user needs
 - Ensured seamless cross-device functionality and responsive design
 
 ### 🚀 **Frontend Developer** | Freelance
-*Delivered client-focused web solutions across diverse industries*
+
+_Delivered client-focused web solutions across diverse industries_
+
 - Developed responsive, standards-compliant websites using HTML/CSS/JavaScript
 - Transformed static designs into interactive web experiences
 - Optimized website performance and cross-browser compatibility
 - Managed end-to-end client relationships and technical consultation
 
 ### 🎓 **Front End Developer Intern** | Information Technology Institute
-*Developed full-stack travel planning platform (Fus7a)*
+
+_Developed full-stack travel planning platform (Fus7a)_
+
 - Built platform using **Next.js**, **React Native**, **Node.js**, and **MongoDB**
 - Implemented **JWT authentication** and **RESTful APIs**
 - Created real-time sync and personalized trip recommendations
@@ -103,30 +107,54 @@
 
 ## 🚀 Featured Projects
 
+### 🤖🎨 [Vibe AI – SaaS AI Website Builder](https://github.com/mohamedammar2729/vibe-ai)
+
+_Next.js · PostgreSQL · Gemini AI · E2B Sandbox · Docker_
+
+> AI-powered app builder that makes creating Next.js startup projects possible with just a sentence. Features live URL output, browser sharing, code viewing, and download capabilities  
+> **Tech**: Next.js, PostgreSQL, Tailwind, TanStack Query, Prisma ORM, tRPC, Gemini API, E2B Sandbox, Neon, Shadcn, Inngest, Docker
+
+### 🤖🚀 [Create Landing Page by AI](https://github.com/mohamedammar2729/ai-landing-page)
+
+_Next.js · Nest.js · MongoDB · Azure OpenAI_
+
+> Modern full-stack web application that leverages artificial intelligence to generate complete, responsive landing pages from simple user ideas  
+> **Tech**: Next.js, Nest.js, TypeScript, MongoDB, Tailwind, TanStack Query, Azure OpenAI, Shadcn
+
 ### 🤖 [Meet AI – SaaS Agent AI Platform](https://github.com/mohamedammar2729/meet-ai)
-*Next.js · PostgreSQL · tRPC · OpenAI · Streaming*
+
+_Next.js · PostgreSQL · tRPC · OpenAI · Streaming_
+
 > Modern SaaS platform for AI-powered video meetings with intelligent agents, real-time chat, and automated summaries  
-> **Tech**: Next.js, PostgreSQL, BetterAuth2, Tailwind, TanStack Query, Drizzle ORM, tRPC, Neon  
+> **Tech**: Next.js, PostgreSQL, BetterAuth2, Tailwind, TanStack Query, Drizzle ORM, tRPC, Neon
 
 ### 🍔 [My Food – Food Ordering App](https://github.com/mohamedammar2729/food-app)
-*Next.js · Prisma · Stripe · NextAuth*
+
+_Next.js · Prisma · Stripe · NextAuth_
+
 > Production-ready food ordering system with payment processing and authentication  
-> **Tech**: Next.js, PostgreSQL, Prisma, RTK, Stripe, Tailwind CSS, Next Auth  
+> **Tech**: Next.js, PostgreSQL, Prisma, RTK, Stripe, Tailwind CSS, Next Auth
 
 ### ✈️ [Fus7a Travel – Cross-Platform Travel Planner](https://github.com/mohamedammar2729/Fusha-Platform)
-*Next.js · React Native · Node.js · MongoDB*
+
+_Next.js · React Native · Node.js · MongoDB_
+
 > Cross-platform travel planner with real-time sync and personalized recommendations  
-> **Tech**: Next.js, React Native, Node.js, MongoDB, REST API, JWT  
+> **Tech**: Next.js, React Native, Node.js, MongoDB, REST API, JWT
 
 ### 🛒 [E-Commerce Marketplace – Vanilla JS Showcase](https://github.com/mohamedammar2729/Market)
-*Vanilla JavaScript · Responsive Design*
+
+_Vanilla JavaScript · Responsive Design_
+
 > Responsive e-commerce UI with product categorization and cart functionality  
-> **Tech**: HTML, CSS, JavaScript  
+> **Tech**: HTML, CSS, JavaScript
 
 ### 🍽️ [Restaurant Menu Landing Page](https://github.com/mohamedammar2729/restaurant)
-*Clean UI · Product Categorization*
+
+_Clean UI · Product Categorization_
+
 > Responsive restaurant menu with product organization and descriptions  
-> **Tech**: HTML, CSS, JavaScript  
+> **Tech**: HTML, CSS, JavaScript
 
 ---
 
@@ -259,7 +287,7 @@ _Specialized in Digital Systems & Embedded Programming_
 ### 📅 Let's Discuss Your Project
 
 **🌍 Location:** Cairo, Egypt  
-**  Languages:** Arabic (Native), English (Proficient)  
+** Languages:** Arabic (Native), English (Proficient)  
 **🛠️ Preferred Tech Stack:** Next.js + TypeScript + PostgreSQL
 
 ---
